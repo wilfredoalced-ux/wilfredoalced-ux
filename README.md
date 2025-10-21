@@ -1,9 +1,8 @@
 <!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="[https://i.imgur.com/9Lk8xDi.gif](https://tenor.com/es-US/view/tamaki-suoh-ouran-gif-2424745705337075738)" alt="Wilfredo UX Banner" width="100%" />
+  <img src="[[https://i.imgur.com/9Lk8xDi.gif](https://tenor.com/es-US/view/tamaki-suoh-ouran-gif-2424745705337075738)](https://tenor.com/es-US/view/yuki-yuki-and-itsuomi-kiss-itsuomi-gif-8959322022735711966)" alt="Wilfredo UX Banner" width="100%" />
 </p> 
 
-<div class="tenor-gif-embed" data-postid="2424745705337075738" data-share-method="host" data-aspect-ratio="1.36813" data-width="100%"><a href="https://tenor.com/view/tamaki-suoh-ouran-gif-2424745705337075738">Tamaki Suoh GIF</a>from <a href="https://tenor.com/search/tamaki-gifs">Tamaki GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="center">
   <strong style="font-size: 24px; color: #4CAF50;">Wilfredo UX</strong><br>
