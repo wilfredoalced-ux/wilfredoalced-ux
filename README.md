@@ -1,6 +1,6 @@
 <!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="[https://i.imgur.com/9Lk8xDi.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEja1R-xmt-RPU22dupuOwXUGe7Z_GBzkbDQ&s)" alt="Wilfredo UX Banner" width="100%" />
+  <img src="https://i.imgur.com/9Lk8xDi.gif" alt="Wilfredo UX Banner" width="100%" />
 </p>
 
 <h1 align="center">⚡ Wilfredo UX ⚡</h1>
@@ -11,7 +11,7 @@
 
 ---
 
-### 🧩 Sobre mí  
+### 🧩 Sobre mí
 💡 Soy un desarrollador enfocado en construir interfaces intuitivas, potentes y modernas.  
 🧠 Me apasiona la **inteligencia artificial**, la **automatización** y el **diseño UX/UI**.  
 🌱 Actualmente aprendiendo **Laravel**, **React**, **JavaScript** y **Python**.  
@@ -20,14 +20,14 @@
 
 ---
 
-### 🛠️ Lenguajes y Herramientas  
+### 🛠️ Lenguajes y Herramientas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,python,mysql,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-### ⚙️ Estadísticas del Sistema  
+### ⚙️ Estadísticas del Sistema
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wilfredoalced-ux&show_icons=true&theme=tokyonight&title_color=00F5D4&text_color=EAEAEA&icon_color=00F5D4&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfredoalced-ux&layout=compact&theme=tokyonight&title_color=00F5D4&text_color=EAEAEA&hide_border=true" height="170"/>
@@ -35,14 +35,14 @@
 
 ---
 
-### 💬 Frase del Día  
+### 💬 Frase del Día
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=39FF14&center=true&vCenter=true&width=550&lines=%22El+código+es+mi+arte%2C+la+lógica+mi+lienzo.%22;--+Wilfredo+UX+--" alt="Inspirational quote" />
 </p>
 
 ---
 
-### 🌐 Conéctate conmigo  
+### 🌐 Conéctate conmigo
 <p align="center">
   <a href="https://github.com/wilfredoalced-ux"><img src="https://img.shields.io/badge/GitHub-00F5D4?logo=github&logoColor=000&style=for-the-badge" /></a>
   <a href="mailto:wilfredoalced@gmail.com"><img src="https://img.shields.io/badge/Gmail-00F5D4?logo=gmail&logoColor=000&style=for-the-badge" /></a>
