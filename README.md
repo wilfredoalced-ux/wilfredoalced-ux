@@ -1,30 +1,15 @@
-<!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="https://i.imgur.com/9Lk8xDi.gif" alt="Wilfredo UX Banner" width="100%" />
-</p>
-
-<h1 align="center">⚡ Wilfredo UX ⚡</h1>
-<p align="center">
-  🚀 Desarrollador | UX/UI Designer | Amante de la tecnología
+  <strong style="font-size: 24px; color: #4CAF50;">Wilfredo UX</strong><br>
+  <em style="font-size: 16px; color: #888888;">Desarrollador Fullstack | UX/UI Designer | Innovando experiencias digitales</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/wilfredo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Wilfredo-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/wilfredo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Wilfredo-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel">
 </p>
 
-
-
-<h1 align="center">⚡ Wilfredo UX ⚡</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=480&lines=Desarrollador+Full+Stack;Apasionado+por+la+IA+y+el+Dise%C3%B1o+UX;Modo+Hacker+Activado+%F0%9F%92%BB;Creando+Experiencias+Digitales+%F0%9F%9A%80" alt="Typing SVG" />
-
-</p>
 
 ---
 
