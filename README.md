@@ -1,7 +1,8 @@
 <!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="https://i.ibb.co/1Q7Bf1T/wilfredo-ux-banner4.gif" alt="Wilfredo UX — Modo IA Activado 🤖" width="100%" />
+  <img src="https://i.ibb.co/hVR5Yj7/wilfredo-ux-banner5.gif" alt="Wilfredo UX — Creando el futuro digital con lógica, diseño y café ☕" width="100%" />
 </p>
+
 
 
 
