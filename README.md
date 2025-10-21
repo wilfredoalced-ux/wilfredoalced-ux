@@ -1,6 +1,6 @@
 <!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVuYm80M3JmZGNzanIzajJld2s2eHN3MnF4Mm9jcDJldnM0MGV3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w6AeQ13Zh9Qo1T7Xdg/giphy.gif" alt="Wilfredo UX Banner" width="100%" />
+  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVuYm80M3JmZGNzanIzajJld2s2eHN3MnF4Mm9jcDJldnM0MGV3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w6AeQ13Zh9Qo1T7Xdg/giphy](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ltMmI2dW13aTFuanEyeWs0MTE0MGtqb3lzZnU0bTY0dXh5cGJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/od5H3PmEG5EVq/giphy.gif).gif" alt="Wilfredo UX Banner" width="100%" />
 </p> 
 
 
