@@ -1,6 +1,6 @@
 <!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="[[https://i.imgur.com/9Lk8xDi.gif](https://tenor.com/es-US/view/tamaki-suoh-ouran-gif-2424745705337075738)](https://tenor.com/es-US/view/yuki-yuki-and-itsuomi-kiss-itsuomi-gif-8959322022735711966)" alt="Wilfredo UX Banner" width="100%" />
+  <img src="https://tenor.com/es-US/view/hugs-gif-19141424.gif" alt="Wilfredo UX Banner" width="100%" />
 </p> 
 
 
