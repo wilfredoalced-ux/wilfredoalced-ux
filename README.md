@@ -1,7 +1,8 @@
 <!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="https://i.ibb.co/zrH0H7r/hacker-banner.gif" alt="Wilfredo UX Banner" width="100%" />
+  <img src="https://i.ibb.co/TcWbtX7/wilfredo-ux-banner2.gif" alt="⚡ Wilfredo UX ⚡ — Creando Experiencias Digitales Inteligentes" width="100%" />
 </p>
+
 
 
 
