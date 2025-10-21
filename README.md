@@ -1,6 +1,6 @@
 <!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="https://tenor.com/es-US/view/hump-bunny-sus-rabbit-gif-26223620" alt="Wilfredo UX Banner" width="100%" />
+  <img src="[https://tenor.com/es-US/view/hump-bunny-sus-rabbit-gif-26223620](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25jNWp2N3pvejBiOWdnNzk2cXJ6aWk4bDl3Y2Q1d3Bnam56YnR2eiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/sYsteCvSFxZTkV2LYe/giphy.gif)" alt="Wilfredo UX Banner" width="100%" />
 </p> 
 
 
