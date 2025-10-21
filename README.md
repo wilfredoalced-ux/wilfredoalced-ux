@@ -1,6 +1,6 @@
 <!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="https://tenor.com/es-US/view/hugs-gif-19141424.gif](https://tenor.com/es-US/view/bitcoin-btc-rhino-bitcoin-mango-mangobite-gif-14293102284105838659.gif" alt="Wilfredo UX Banner" width="100%" />
+  <img src="https://tenor.com/es-US/view/hump-bunny-sus-rabbit-gif-26223620.gif" alt="Wilfredo UX Banner" width="100%" />
 </p> 
 
 
