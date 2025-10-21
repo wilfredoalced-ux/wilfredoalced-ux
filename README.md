@@ -1,6 +1,6 @@
 <!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="https://i.imgur.com/9Lk8xDi.gif" alt="Wilfredo UX Banner" width="100%" />
+  <img src="[https://i.imgur.com/9Lk8xDi.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEja1R-xmt-RPU22dupuOwXUGe7Z_GBzkbDQ&s)" alt="Wilfredo UX Banner" width="100%" />
 </p>
 
 <h1 align="center">⚡ Wilfredo UX ⚡</h1>
