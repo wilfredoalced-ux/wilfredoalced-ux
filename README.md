@@ -1,6 +1,20 @@
 <!-- 🔥 Banner Superior -->
 <p align="center">
-  <img src="https://i.ibb.co/jbvQzQb/wilfredo-ux-banner1.gif" alt="Wilfredo UX — Full Stack Developer | IA & UX Design 🚀" width="100%" />
+  <img src="https://i.imgur.com/9Lk8xDi.gif" alt="Wilfredo UX Banner" width="100%" />
+</p>
+
+<h1 align="center">⚡ Wilfredo UX ⚡</h1>
+<p align="center">
+  🚀 Desarrollador | UX/UI Designer | Amante de la tecnología
+</p>
+
+<p align="center">
+  <a href="https://github.com/wilfredo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Wilfredo-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/wilfredo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Wilfredo-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
 
 
