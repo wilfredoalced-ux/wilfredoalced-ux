@@ -5,9 +5,6 @@
 
 
 
-
-
-
 <h1 align="center">⚡ Wilfredo UX ⚡</h1>
 
 <p align="center">
